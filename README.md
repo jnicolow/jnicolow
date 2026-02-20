@@ -6,7 +6,7 @@
 <a href="https://scholar.google.com/citations?user=zSGvQXcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google-Scholar-blue" alt="Google Scholar"></a>
 <a href="https://www.linkedin.com/in/joelnicolow/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I am a Master’s student at the University of Hawai‘i Manoa where I study Computer Science. My specific interests and goals include:
+I am a PhD student at the University of Hawai‘i Mānoa where I study Computer Science. My specific interests and goals include:
 
 - Data science, machine learning, and computer programming
 - Continuing to conduct interdisciplinary research using machine learning
