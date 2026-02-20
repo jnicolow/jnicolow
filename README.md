@@ -1,4 +1,4 @@
-## Joel Nicolow, B.S. Computer Science, University of Hawaiʻi at Mānoa
+## Joel Nicolow, M.S. Computer Science, University of Hawaiʻi at Mānoa
 <!--**jnicolow/jnicolow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![User's stars](https://img.shields.io/github/stars/jnicolow?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jnicolow?style=social)
