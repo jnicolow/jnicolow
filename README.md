@@ -15,37 +15,45 @@ I am a PhD student at the University of Hawai‘i Mānoa where I study Computer 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <!-- GeoPandas (no devicon, using project logo) -->
-  <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="geopandas" width="40" height="40"/>
-  </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
+        <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="geopandas" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!--**![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnicolow&show_icons=true&theme=default)
